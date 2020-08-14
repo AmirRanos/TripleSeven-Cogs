@@ -1,0 +1,16 @@
+{
+  "author": [
+    "Naftoreiclag"
+  ],
+  "description": "Move everyone in a channel somewhere else.",
+  "name": "herd",
+  "short": "Move everyone in a channel somewhere else.",
+  "tags": [
+    "utility"
+  ],
+  "min_python_version": [
+    3,
+    6,
+    0
+  ]
+}
